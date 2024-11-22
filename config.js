@@ -15,7 +15,7 @@ ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/2a06381b260c3f096a6
 ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M AFTAB,S BOT😊♻️",
 ANTI_LINK: process.env.ANTI_LINK || "true",
 ANTI_BAD: process.env.ANTI_BAD || "true",
-PREFIX: process.env.PREFIX || "✓",
+PREFIX: process.env.PREFIX || "!",
 FAKE_RECORDING: process.env.FAKE_RECORDING || "true",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 OWNER_REACT: process.env.OWNER_REACT || "true",
